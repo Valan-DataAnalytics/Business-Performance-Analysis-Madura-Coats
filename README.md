@@ -7,3 +7,5 @@ Key Insights
 
 Tools Used
 * Microsoft Excel: Data preparation and trend calculations. * Power BI: Executive-level visualization and KPI summaries
+<img width="1616" height="933" alt="P11" src="https://github.com/user-attachments/assets/ad4236ca-248f-4a07-be4b-56b5298eed11" />
+<img width="1617" height="928" alt="P12" src="https://github.com/user-attachments/assets/6cb0442d-8c11-4533-ab39-ebc792391591" />
